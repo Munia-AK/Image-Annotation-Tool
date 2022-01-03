@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "sass": "^1.45.2",
+    "sass-loader": "^10.1.1"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "lodash": "^4.17.21",
+    "schema-utils": "^4.0.0",
+    "vue-lodash": "^2.1.2"
+  }
+}
